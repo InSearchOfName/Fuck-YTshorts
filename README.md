@@ -5,7 +5,7 @@ A simple browser addon that hides YouTube Shorts recommendations by using CSS to
 ## Features
 
 - Removes Shorts shelf from YouTube homepage
-- Hides Shorts suggestions from search results
+- Hides Shorts suggestions
 - Lightweight and simple
 
 ## Installation
